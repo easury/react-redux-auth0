@@ -1,0 +1,26 @@
+{
+  "name": "react-redux-auth0",
+  "version": "1.0.0",
+  "description": "React Redux utils for Auth0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel source --presets babel-preset-es2015 --out-dir distribution" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ameier38@bitbucket.org/easury/react-redux-auth0.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "auth0"
+  ],
+  "author": "Andrew Meier",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/easury/react-redux-auth0#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
